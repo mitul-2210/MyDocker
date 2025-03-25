@@ -157,6 +157,13 @@ Open your browser and go to: [http://localhost:8501](http://localhost:8501)
 You should see the Streamlit app displaying the user data from PostgreSQL.
 
 ---
+---
+
+## ✅ Expected Result
+
+![App showing successful database connection](output.jpg)
+
+---
 
 ## 🧹 Cleanup Resources
 
