@@ -1,0 +1,128 @@
+# 🚀 Dockerized Projects & Experiments 🐳  
+
+Welcome to the **Docker Playground**! This repository is a collection of **containerized applications**, covering **ML models, databases, networking experiments, and cloud deployments**.  
+
+Each project highlights **practical applications of Docker**, helping you sharpen your skills in **containerization, DevOps, and cloud computing**.  
+
+---
+
+## 📚 Helpful Resources  
+Expand your Docker knowledge with these essential resources:  
+
+📖 [Official Docker Documentation](https://docs.docker.com/)  
+🎥 [Docker Video Tutorials](https://www.youtube.com/c/Docker)  
+
+---
+
+## 🛠 Setup Requirements  
+Ensure you have the following installed before running the projects:  
+
+✅ **Docker** → Check with `docker --version`  
+✅ **Python** (Required for Streamlit apps)  
+✅ **AWS CLI** (Needed for EC2 deployment)  
+
+---
+
+## 🚀 Featured Projects & Experiments  
+
+🔹 **[EXP-1: Spiral Pattern Generator](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-01)** – Interactive visualizations with Streamlit  
+🔹 **[EXP-2: Binary Classification Web App](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-02)** – ML-powered classification using Logistic Regression  
+🔹 **[EXP-3: Python Logging in Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-03)** – Best practices for logging in containerized environments  
+🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-04)** – Connecting Streamlit with PostgreSQL inside Docker  
+🔹 **[EXP-5: MySQL in Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-05)** – Setting up MySQL as a Docker container  
+🔹 **[EXP-6: Docker Networking Experiment](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-06)** – Exploring container networking capabilities  
+🔹 **[EXP-7: ML Deployment with Evidently](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-07)** – Deploying an ML model with Evidently AI  
+🔹 **[EXP-8: Hosting on AWS EC2](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-08)** – Running Docker containers on AWS EC2  
+🔹 **[EXP-9: Running Minikube with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-09)** – Local Kubernetes setup with Minikube  
+🔹 **[EXP-10: Docker Bake](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-10)** – Efficient image builds with Docker Bake  
+🔹 **[EXP-11: Windows Bakery Foundation 🍞](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-11)** – Exploring containerized bakery workflows  
+
+---
+
+### 🌟 **Spiral Pattern Generator**  
+📌 **Overview:** A Streamlit app that generates dynamic spiral designs using Docker.  
+🛠 **Run it:**  
+```bash  
+docker build -t streamlit-spiral .  
+docker run -p 8501:8501 streamlit-spiral  
+```
+🔗 **[Try the Live App](https://dockerpractices1.streamlit.app/)**  
+
+---
+
+### 🌟 **Binary Classification Web App**  
+📌 **Overview:** A machine learning app built with Streamlit for binary classification using Logistic Regression.  
+🛠 **Run it:**  
+```bash  
+docker build -t binary-classifier .  
+docker run -p 8501:8501 binary-classifier  
+```
+🔗 **[View Code](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-02)**  
+
+---
+
+### 🌟 **Python Logging in Docker**  
+📌 **Overview:** A best-practices guide for setting up logging in a containerized Python application.  
+🛠 **Run it:**  
+```bash  
+docker build -t python-logging .  
+docker run python-logging  
+```
+🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-03)**  
+
+---
+
+### 🌟 **Streamlit + PostgreSQL**  
+📌 **Overview:** Demonstrates connecting a Streamlit frontend to a PostgreSQL database inside Docker.  
+🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-04)**  
+
+---
+
+### 🌟 **MySQL in Docker**  
+📌 **Overview:** Spin up a MySQL database using Docker for easy integration with applications.  
+🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-05)**  
+
+---
+
+### 🌟 **Docker Networking Experiment**  
+📌 **Overview:** Learn about networking in Docker by connecting multiple containers in a network.  
+🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-06)**  
+
+---
+
+### 🌟 **ML Deployment with Evidently**  
+📌 **Overview:** Deploy an ML model with monitoring using Evidently AI inside Docker.  
+🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-07)**  
+
+---
+
+### 🌟 **Hosting on AWS EC2**  
+📌 **Overview:** Steps to deploy containerized applications on AWS EC2 instances.  
+🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-08)**  
+
+---
+
+### 🌟 **Running Minikube with Docker**  
+📌 **Overview:** Set up a local Kubernetes cluster using Minikube with Docker.  
+🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-09)**  
+
+---
+
+## 📚 Additional Learning  
+
+📖 **[Docker Documentation](https://docs.docker.com/)**  
+📖 **[Streamlit Guide](https://docs.streamlit.io/)**  
+📖 **[AWS CLI Setup](https://aws.amazon.com/cli/)**  
+
+---
+
+## 🤝 Contribute to the Repository  
+
+💡 Found an issue? **Open a ticket!**  
+✨ Have a cool idea? **Submit a pull request!**  
+📖 Want to enhance the documentation? **Feel free to contribute!**  
+
+---
+
+🔥 **Happy Learning & Containerizing!** 🚀🐳
+
