@@ -70,9 +70,6 @@ Docker_Practices/
 - The `database.sql` file will be executed **only on the first run** to initialize the database.  
 - The **root password** is set to `root` (change this in production for security).  
 
-## 🔗 Repository Link  
-🔗 **GitHub:** [Aditya5757raj/Docker_Practices](https://github.com/Aditya5757raj/Docker_Practices)  
-
 ---
 
 ### 📜 License  
