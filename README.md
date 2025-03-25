@@ -57,7 +57,7 @@ docker run -p 8501:8501 streamlit-spiral
 docker build -t binary-classifier .  
 docker run -p 8501:8501 binary-classifier  
 ```
-🔗 **[View Code](https://mydocker-exp2.streamlit.app/)**  
+🔗 **[View Code](https://github.com/mitul-2210/MyDocker/tree/main/Exp-2)**  
 
 ---
 
@@ -68,43 +68,43 @@ docker run -p 8501:8501 binary-classifier
 docker build -t python-logging .  
 docker run python-logging  
 ```
-🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-03)**  
+🔗 **[Check it Out](https://github.com/mitul-2210/MyDocker/tree/main/Exp-3)**  
 
 ---
 
 ### 🌟 **Streamlit + PostgreSQL**  
 📌 **Overview:** Demonstrates connecting a Streamlit frontend to a PostgreSQL database inside Docker.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-04)**  
+🔗 **[View Project](https://github.com/mitul-2210/MyDocker/tree/main/Exp-4)**  
 
 ---
 
 ### 🌟 **MySQL in Docker**  
 📌 **Overview:** Spin up a MySQL database using Docker for easy integration with applications.  
-🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-05)**  
+🔗 **[Check it Out](https://github.com/mitul-2210/MyDocker/tree/main/Exp-5)**  
 
 ---
 
 ### 🌟 **Docker Networking Experiment**  
 📌 **Overview:** Learn about networking in Docker by connecting multiple containers in a network.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-06)**  
+🔗 **[View Project](https://github.com/mitul-2210/MyDocker/tree/main/Exp-6)**  
 
 ---
 
 ### 🌟 **ML Deployment with Evidently**  
 📌 **Overview:** Deploy an ML model with monitoring using Evidently AI inside Docker.  
-🔗 **[Check it Out](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-07)**  
+🔗 **[Check it Out](https://github.com/mitul-2210/MyDocker/tree/main/Exp-7)**  
 
 ---
 
 ### 🌟 **Hosting on AWS EC2**  
 📌 **Overview:** Steps to deploy containerized applications on AWS EC2 instances.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-08)**  
+🔗 **[View Project](https://github.com/mitul-2210/MyDocker/tree/main/Exp-8)**  
 
 ---
 
 ### 🌟 **Running Minikube with Docker**  
 📌 **Overview:** Set up a local Kubernetes cluster using Minikube with Docker.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-09)**  
+🔗 **[View Project](https://github.com/mitul-2210/MyDocker/tree/main/Exp-9)**  
 
 ---
 
