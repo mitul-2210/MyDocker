@@ -46,7 +46,7 @@ Ensure you have the following installed before running the projects:
 docker build -t streamlit-spiral .  
 docker run -p 8501:8501 streamlit-spiral  
 ```
-🔗 **[Try the Live App](https://dockerpractices1.streamlit.app/)**  
+🔗 **[Try the Live App]([https://dockerpractices1.streamlit.app/](https://mydocker-8iappwnekrcyxdhyem2trgh.streamlit.app/))**  
 
 ---
 
