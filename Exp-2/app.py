@@ -23,12 +23,15 @@ def main():
     st.sidebar.title("Binary Classification")
     st.sidebar.markdown("Are your mushroom edible or poisonous?")
 
-    @st.cache_data(persist = True)
+    @st.cache_data(persist=True)
     def load_data():
         file_path = os.path.join(os.path.dirname(__file__), "mushrooms.csv")
+
         if not os.path.exists(file_path):
+            st.error(f"File not found: {file_path}")
             raise FileNotFoundError(f"File not found: {file_path}")
-        return pd.read_csv(file_path)
+
+        return pd.read_csv(file_path
 
     @st.cache_data(persist = True)
     def split(df):
