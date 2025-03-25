@@ -31,7 +31,7 @@ def main():
             st.error(f"File not found: {file_path}")
             raise FileNotFoundError(f"File not found: {file_path}")
 
-        return pd.read_csv(file_path
+        return pd.read_csv(file_path)
 
     @st.cache_data(persist = True)
     def split(df):
