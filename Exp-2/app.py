@@ -24,13 +24,10 @@ def main():
 
     @st.cache_data(persist = True)
     def load_data():
-        data = pd.read_csv('mushrooms.csv')
-        label = LabelEncoder()
-
-        for col in data.columns:
-            data[col] = label.fit_transform(data[col])
-        
-        return data
+    file_path = os.path.join(os.path.dirname(__file__), "mushrooms.csv")
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"File not found: {file_path}")
+    return pd.read_csv(file_path)
 
     @st.cache_data(persist = True)
     def split(df):
