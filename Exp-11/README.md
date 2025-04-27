@@ -235,7 +235,7 @@ This indicates that the AMI has been successfully created and is ready for use.
 **Screenshot: AMI Created Successfully**
 
 ![Ami created in AWS](img1.png)
-(img3.png)
+![](img3.png)
 ---
 
 ### 2. Running EC2 Instance with Python 3.9
@@ -257,7 +257,7 @@ This confirms that Python 3.9 has been successfully installed on the instance.
 **Screenshot: Python 3.9 Installed on EC2 Instance**
 
 ![Runnning instance ec2 CLI](img4.png)
-(img2.png)
+![](img2.png)
 
 ---
 
