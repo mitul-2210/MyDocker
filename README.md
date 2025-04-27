@@ -57,7 +57,7 @@ docker run -p 8501:8501 streamlit-spiral
 docker build -t binary-classifier .  
 docker run -p 8501:8501 binary-classifier  
 ```
-🔗 **[View Code](https://https://mydocker-exp2.streamlit.app/)**  
+🔗 **[Try the Live App](https://mydocker-exp2.streamlit.app)**  
 
 ---
 
