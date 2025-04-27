@@ -216,6 +216,51 @@ python3.9 --version
 Python 3.9.21
 ```
 
+## 📸 Result Screenshots
+
+### 1. AMI Created Successfully
+
+After running the `packer build` command, you should see an output similar to the following:
+
+```bash
+==> Builds finished. The artifacts of successful builds are:
+--> amazon-ebs.python39: AMIs were created:
+us-east-1: ami-xxxxxxxxxxxxxxxxx
+
+```
+
+
+This indicates that the AMI has been successfully created and is ready for use.
+
+**Screenshot: AMI Created Successfully**
+
+![Ami created in AWS](img1.png)
+(img3.png)
+---
+
+### 2. Running EC2 Instance with Python 3.9
+
+After launching the EC2 instance and connecting via SSH, running the command:
+
+```bash
+python3.9 --version
+```
+
+Should return:
+
+```bash
+Python 3.9.21
+```
+
+This confirms that Python 3.9 has been successfully installed on the instance.
+
+**Screenshot: Python 3.9 Installed on EC2 Instance**
+
+![Runnning instance ec2 CLI](img4.png)
+(img2.png)
+
+---
+
 ---
 
 ## Conclusion
