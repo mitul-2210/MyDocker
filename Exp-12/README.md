@@ -110,7 +110,7 @@ docker rmi titanic-prediction
 
 ## 📸 Sample Output
 
-![Terminal Output](image1.jpg)
+![Terminal Output](image11.jpg)
 
 ![Running Streamlit App](image2.jpg)
 
