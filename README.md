@@ -26,15 +26,25 @@ Ensure you have the following installed before running the projects:
 ## 🚀 Featured Projects & Experiments  
 
 🔹 **[EXP-1: Spiral Pattern Generator](https://github.com/mitul-2210/MyDocker/tree/main/Exp-1)** – Interactive visualizations with Streamlit  
-🔹 **[EXP-2: Binary Classification Web App](https://github.com/mitul-2210/MyDocker/tree/main/Exp-2)** – ML-powered classification using Logistic Regression  
-🔹 **[EXP-3: Python Logging in Docker](https://github.com/mitul-2210/MyDocker/tree/main/Exp-3)** – Best practices for logging in containerized environments  
+
+🔹 **[EXP-2: Binary Classification Web App](https://github.com/mitul-2210/MyDocker/tree/main/Exp-2)** – ML-powered classification using Logistic Regression 
+
+🔹 **[EXP-3: Python Logging in Docker](https://github.com/mitul-2210/MyDocker/tree/main/Exp-3)** – Best practices for logging in containerized environments
+
 🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/mitul-2210/MyDocker/tree/main/Exp-4)** – Connecting Streamlit with PostgreSQL inside Docker  
+
 🔹 **[EXP-5: MySQL in Docker](https://github.com/mitul-2210/MyDocker/tree/main/Exp-5)** – Setting up MySQL as a Docker container  
-🔹 **[EXP-6: Docker Networking Experiment](https://github.com/mitul-2210/MyDocker/tree/main/Exp-6)** – Exploring container networking capabilities  
-🔹 **[EXP-7: ML Deployment with Evidently](https://github.com/mitul-2210/MyDocker/tree/main/Exp-7)** – Deploying an ML model with Evidently AI  
-🔹 **[EXP-8: Hosting on AWS EC2](https://github.com/mitul-2210/MyDocker/tree/main/Exp-8)** – Running Docker containers on AWS EC2  
+
+🔹 **[EXP-6: Docker Networking Experiment](https://github.com/mitul-2210/MyDocker/tree/main/Exp-6)** – Exploring container networking capabilities
+
+🔹 **[EXP-7: ML Deployment with Evidently](https://github.com/mitul-2210/MyDocker/tree/main/Exp-7)** – Deploying an ML model with Evidently AI 
+
+🔹 **[EXP-8: Hosting on AWS EC2](https://github.com/mitul-2210/MyDocker/tree/main/Exp-8)** – Running Docker containers on AWS EC2 
+
 🔹 **[EXP-9: Running Minikube with Docker](https://github.com/mitul-2210/MyDocker/tree/main/Exp-9)** – Local Kubernetes setup with Minikube  
+
 🔹 **[EXP-10: Docker Bake](https://github.com/mitul-2210/MyDocker/tree/main/Exp-10)** – Efficient image builds with Docker Bake
+
 🔹 **[EXP-11: Windows Bakery Foundation 🍞](https://github.com/mitul-2210/MyDocker/tree/main/Exp-11)** – Exploring containerized bakery workflows
 
 🔹 **[EXP-12: 🚢 Titanic Survival Predictor](https://github.com/mitul-2210/MyDocker/tree/main/Exp-12)** – Streamlit App in a Docker Container
