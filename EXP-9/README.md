@@ -155,5 +155,5 @@ With **Minikube and Docker**, you can easily run a **Kubernetes cluster locally*
   ![Minikube Terminal Output](terminal.jpg)  
 
 - **Nginx Web Server Running in Browser**  
-  ![Nginx Browser View](browser.jpg)  
+  ![Nginx Browser View]()  
 
