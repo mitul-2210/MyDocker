@@ -36,8 +36,8 @@ Ensure you have the following installed before running the projects:
 🔹 **[EXP-9: Running Minikube with Docker](https://github.com/mitul-2210/MyDocker/tree/main/Exp-9)** – Local Kubernetes setup with Minikube  
 🔹 **[EXP-10: Docker Bake](https://github.com/mitul-2210/MyDocker/tree/main/Exp-10)** – Efficient image builds with Docker Bake  
 🔹 **[EXP-11: Windows Bakery Foundation 🍞](https://github.com/mitul-2210/MyDocker/tree/main/Exp-11)** – Exploring containerized bakery workflows
-
 🔹 **[EXP-12: 🚢 Titanic Survival Predictor](https://github.com/mitul-2210/MyDocker/tree/main/Exp-12)** – Streamlit App in a Docker Container
+
 🔹 **[EXP-13: 🚀 Microservices Orchestration with Docker Swarm](https://github.com/mitul-2210/MyDocker/tree/main/Exp-13)** – Demonstrates Microservices Orchestration using Docker Swarm
 
 ---
