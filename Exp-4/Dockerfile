@@ -8,7 +8,8 @@ WORKDIR /app
 COPY . .
 
 # Install dependencies
-RUN pip install --no-cache-dir streamlit psycopg2
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose Streamlit port
 EXPOSE 8501
