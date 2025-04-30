@@ -106,7 +106,7 @@ docker run python-logging
 
 ### 🌟 **ML Deployment with Evidently**  
 📌 **Overview:** Deploy an ML model with monitoring using Evidently AI inside Docker.  
-🔗 **[Check it Out](https://github.com/mitul-2210/MyDocker/tree/main/Exp-7)**  
+🔗 **[Check it Out](https://mydocker-bta4fdrfrvlbmwd59oqgcs.streamlit.app)**  
 
 ---
 
