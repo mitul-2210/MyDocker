@@ -55,13 +55,14 @@ def display_sidebar_header() -> None:
         )
         evidently_docs: Text = "https://docs.evidentlyai.com/"
         col1.markdown(
-            f"<a style='display: block; text-align: center;' href={repo_link}>Source code</a>",
+            f"<a style='display: block; text-align: center;' href=\"{repo_link}\">Source code</a>",
             unsafe_allow_html=True,
         )
         col2.markdown(
-            f"<a style='display: block; text-align: center;' href={evidently_docs}>Evidently docs</a>",
+            f"<a style='display: block; text-align: center;' href=\"{evidently_docs}\">Evidently docs</a>",
             unsafe_allow_html=True,
         )
+
         st.header("")  # add space between logo and selectors
 
 
